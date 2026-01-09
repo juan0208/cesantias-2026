@@ -33,8 +33,8 @@ const contactos = [
   },
   {
     tipo: "Instagram",
-    valor: "@cesantias2022",
-    link: "https://www.instagram.com/cesantias2022",
+    valor: "@cesantias_rapidas",
+    link: "https://www.instagram.com/cesantias_rapidas?igsh=MXR4ZzZvdHJrZ2o5dw==",
     icon: Instagram,
     className: "bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 hover:opacity-90 text-white",
   },
